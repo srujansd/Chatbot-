@@ -1,11 +1,11 @@
 ## designing the GenAI chatbot using the python
 
-##how to create the virtual environment:
+##to create the virtual environment:
 How to Create a Virtual Environment on Windows
 Steps
 Open Command Prompt or PowerShell
 
-Navigate to your project directory (or where you want the virtual environment to be created):
+Navigate to project directory (or where you want the virtual environment to be created):
 
 cd C:\path\to\your\project
 Create the virtual environment:
