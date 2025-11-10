@@ -3,7 +3,7 @@ from langchain_community.chat_models import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
-st.title("Hello, Streamlit!")
+st.title("OpenRouter Chatbot with LangChain and Streamlit")
 
 prompt = ChatPromptTemplate.from_messages([
     ("system", "You are a helpful AI assistant. Give clear, concise answers."),
